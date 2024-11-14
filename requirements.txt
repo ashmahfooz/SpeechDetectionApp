@@ -1,8 +1,10 @@
 googletrans==4.0.0rc1
 SpeechRecognition==3.11.0
 PyAudio==0.2.14
-pipwin
+portaudio19-dev
+python3-all-dev
 gTTS==2.5.3
 playsound==1.2.2
 streamlit
+
 
