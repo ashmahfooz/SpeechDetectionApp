@@ -4,3 +4,4 @@ PyAudio==0.2.14
 gTTS==2.5.3
 playsound==1.2.2
 streamlit
+sounddevice
