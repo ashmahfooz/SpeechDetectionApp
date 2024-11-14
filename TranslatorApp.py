@@ -38,7 +38,6 @@ def capture_and_translate():
             except Exception as e:
                 st.write(f"Error:{e}")
 
-
             with open(audio_file,"rb") as file:
                 st.download_button("Download",file,file_name="Test.mp3")
 
